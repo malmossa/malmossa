@@ -1,7 +1,7 @@
 # Hi There! :smile:
 I am a Full Stack Web Developer.<br>
 HTML5, CSS3, JavaScript, Reactjs, Nodejs, Nextjs, Bootstrap, Materia-UI.<br>
->In 2018 I started playing around with WordPress and decided to build my own e-commerce site, but I always was limited to what the theme and plugin provide no room >for my imagination, and that's when I start looking at the actual code trying to understand it maybe I can do some tweaking here and there but it was harder than I >thought and that's when I decided to  join learningFuze coding bootcamp, then new love story started me and coding. Finally after all those years I found something >I want to do for the rest of my life.<br>
+>In 2018 I started playing around with WordPress and decided to build my own e-commerce site, but I always was limited to what the theme and plugin provide no room for my imagination, and that's when I start looking at the actual code trying to understand it maybe I can do some tweaking here and there but it was harder than I thought and that's when I decided to  join learningFuze coding bootcamp, then new love story started me and coding. Finally after all those years I found something I want to do for the rest of my life.<br>
 i :heart: coding and learning everyday.
 
 <!--
