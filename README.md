@@ -1,4 +1,4 @@
-### Hi there 👋
+![screen shot of the web site](img/github_header.jfif)
 
 <!--
 **malmossa/malmossa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
