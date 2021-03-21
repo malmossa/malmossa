@@ -1,6 +1,6 @@
-# Hi There! I'm Mansor Almossa
-## Full Stack Web Developer
-### HTML5, CSS3, JavaScript, Reactjs, Nodejs, Nextjs, Bootstrap, Materia-UI
+# Hi There! 
+Full Stack Web Developer
+HTML5, CSS3, JavaScript, Reactjs, Nodejs, Nextjs, Bootstrap, Materia-UI
 
 <!--
 **malmossa/malmossa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
