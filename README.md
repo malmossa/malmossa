@@ -1,5 +1,6 @@
 # Hi There! 
->I'm s full stack web developer: HTML5, CSS3, JavaScript, Reactjs, Nodejs, Nextjs, Bootstrap, Materia-UI
+Full Stack Web Developer.
+HTML5, CSS3, JavaScript, Reactjs, Nodejs, Nextjs, Bootstrap, Materia-UI
 
 <!--
 **malmossa/malmossa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
